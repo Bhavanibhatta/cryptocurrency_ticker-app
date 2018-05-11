@@ -1,0 +1,47 @@
+.cryptocurrency_name{
+  font-size: 1.5em;
+}
+.cryptocurrency_container{
+  padding-left: 5rem;
+
+}
+li{
+
+  border-radius: 70px 10px 70px 10px;
+  padding:12px;
+  text-align: center;
+
+}
+.cryptocurrency_listbitcoin{
+  background-color: #36d8d6;
+  border-bottom: solid 4px #297a78;
+  border-right: solid 3px #297a78;
+
+  }
+  .cryptocurrency_listbitcoin:hover{
+      box-shadow: 2px 3px #297a78;
+  }
+.cryptocurrency_listripple{
+  background-color: #4b33e8;
+  border-bottom: solid 4px #23167a;
+  border-right: solid 3px #23167a;
+}
+.cryptocurrency_listripple:hover{
+  box-shadow: 2px 3px #23167a;
+}
+.cryptocurrency_liststellar{
+  background-color: #36c442;
+  border-bottom: solid 4px #1d7725;
+  border-right: solid 3px #1d7725;
+}
+.cryptocurrency_liststellar:hover{
+  box-shadow: 2px 3px #1d7725;
+}
+.cryptocurrency_listlitecoin{
+  background-color: #e27abb;
+  border-bottom: solid 4px #99276e;
+  border-right: solid 3px #99276e;
+}
+.cryptocurrency_listlitecoin:hover{
+  box-shadow: 2px 3px #99276e;
+}

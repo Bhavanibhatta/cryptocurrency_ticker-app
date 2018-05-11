@@ -1,0 +1,9 @@
+.ticker{
+  list-style-type: none;
+  display: inline-flex;
+  padding:0;
+
+}
+.ticker-container{
+
+}
